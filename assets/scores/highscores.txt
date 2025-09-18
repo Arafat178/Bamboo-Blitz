@@ -1,1 +1,11 @@
-
+Arafat,30
+Asif,12
+Dibba,28
+diploma,6
+Arafat,24
+asif,52
+arafat,0
+arafat,6
+ARAFAT,12
+BKJ,0
+ASIF,6
